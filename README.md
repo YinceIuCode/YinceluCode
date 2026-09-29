@@ -62,3 +62,4 @@ Beyond my studies, I build and program things simply because I love coding from 
 </p>
 
 ## Projects
+
